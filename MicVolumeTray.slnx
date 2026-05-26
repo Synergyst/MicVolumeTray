@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MicVolumeTray/MicVolumeTray.vcxproj" Id="ddb2c723-9d96-44d3-9c20-352111dff38b" />
+</Solution>
